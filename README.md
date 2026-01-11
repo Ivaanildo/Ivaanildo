@@ -1,16 +1,118 @@
-## Hi there 👋
+<!-- Animated Header -->
+<img src="https://media.giphy.com/media/M9gbBcnLXmpf8odeTu/giphy.gif" width="100">
 
-<!--
-**Ivaanildo/Ivaanildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Bem-vindo ao Universo de Ivanildo
 
-Here are some ideas to get you started:
+> "A melhor forma de prever o futuro é inventá-lo" - Alan Kay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre Mim
+
+Sou um **desenvolvedor full-stack apaixonado por IA e automação**, especializado em criar soluções inteligentes que transformam dados em insights valiosos. Atualmente exploro:
+
+- 🤖 **Inteligência Artificial & LLMs** - Desenvolvendo sistemas inteligentes com RAG, agentes autônomos
+- 🌐 **Full-Stack Web** - TypeScript, React, Node.js, Express
+- 📊 **Análise de Dados** - Python, Machine Learning, Data Science
+- ⚙️ **Automação** - N8N, workflows inteligentes
+- 🧠 **Sistemas RAG** - Semantic search, document analysis, knowledge graphs
+
+---
+
+## 🔥 Meus Projetos em Destaque
+
+### **DocLean AI v3**
+Sistema avançado de análise de documentos com processamento de PDFs, OCR e IA generativa.
+
+### **ControleData-ONG**
+Plataforma MVP de controle de datas para ONGs com frontend Vite+React e backend Node/Express.
+
+### **Painel de Insights de IA**
+Dashboards e métricas em tempo real para LLMs e agentes inteligentes.
+
+### **Teste Voice**
+Clonagem de voz avançada desenvolvida em Python/Flask com processamento em tempo real.
+
+---
+
+## 🛠️ Stack Técnico
+
+```
+┌─ FRONTEND ──────────────────┐
+│ TypeScript │ React │ Vue.js │
+└──────────────────────────────┘
+
+┌─ BACKEND ───────────────────┐
+│ Node.js │ Express │ Python │
+└──────────────────────────────┘
+
+┌─ IA & DADOS ────────────────┐
+│ LLMs │ RAG │ ML │ TensorFlow │
+└──────────────────────────────┘
+
+┌─ BANCO DE DADOS ────────────┐
+│ Supabase │ PostgreSQL │ MongoDB │
+└──────────────────────────────┘
+
+┌─ FERRAMENTAS ───────────────┐
+│ N8N │ GitHub │ VS Code │ Cursor │
+└──────────────────────────────┘
+```
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivaanildo&theme=dark&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaanildo&theme=dark&layout=compact)
+
+---
+
+## 🎯 Interesses & Áreas de Foco
+
+✨ **AI & Automação** - Criando máquinas inteligentes
+✨ **System Design** - Arquitetura escalável
+✨ **DevOps** - Deploy e produção
+✨ **Video AI** - Geração de conteúdo com IA
+✨ **Knowledge Graphs** - Estruturas de dados semânticas
+
+---
+
+## 💬 Conecte-se Comigo
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Ivanildo_BDS)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Ivaanildo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+📍 **São Paulo, BR** | 🇧🇷 Desenvolvedor em constante evolução
+
+---
+
+## 📚 Atualmente Aprendendo
+
+- 🔄 Advanced LLM Architectures
+- 🎬 Video Generation (Veo, Runway)
+- 🧠 Agentic Frameworks
+- 📊 Advanced Prompt Engineering
+- 🚀 System Design & Scalability
+
+---
+
+## 🌟 Fun Fact
+
+> Quando não estou codificando, provavelmente estou:
+> - 🎮 Jogando Guitar Flash ou 8 Ball Billiards
+> - 🎨 Criando conteúdo para TikTok
+> - 🎵 Ouvindo Mozart enquanto penso em algoritmos
+> - 📚 Estudando novas tecnologias AI
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Ivanildo
+
+⭐ Se você gostou, considere dar uma estrela nos meus repositórios!
+
+</div>
