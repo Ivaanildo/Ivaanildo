@@ -83,7 +83,7 @@ Clonagem de voz avançada desenvolvida em Python/Flask com processamento em temp
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Ivanildo_BDS)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Ivaanildo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/ivanildo-nogueira-459550211/)
 
 📍 **São Paulo, BR** | 🇧🇷 Desenvolvedor em constante evolução
 
@@ -92,7 +92,6 @@ Clonagem de voz avançada desenvolvida em Python/Flask com processamento em temp
 ## 📚 Atualmente Aprendendo
 
 - 🔄 Advanced LLM Architectures
-- 🎬 Video Generation (Veo, Runway)
 - 🧠 Agentic Frameworks
 - 📊 Advanced Prompt Engineering
 - 🚀 System Design & Scalability
@@ -102,8 +101,6 @@ Clonagem de voz avançada desenvolvida em Python/Flask com processamento em temp
 ## 🌟 Fun Fact
 
 > Quando não estou codificando, provavelmente estou:
-> - 🎮 Jogando Guitar Flash ou 8 Ball Billiards
-> - 🎨 Criando conteúdo para TikTok
 > - 🎵 Ouvindo Mozart enquanto penso em algoritmos
 > - 📚 Estudando novas tecnologias AI
 
@@ -112,7 +109,5 @@ Clonagem de voz avançada desenvolvida em Python/Flask com processamento em temp
 <div align="center">
 
 ### Made with ❤️ by Ivanildo
-
-⭐ Se você gostou, considere dar uma estrela nos meus repositórios!
 
 </div>
