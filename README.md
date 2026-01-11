@@ -3,7 +3,7 @@
 
 # 🚀 Bem-vindo ao Universo de Ivanildo
 
-> "A melhor forma de prever o futuro é inventá-lo" - Alan Kay
+> "A melhor forma de prever o futuro é inventá-lo" 
 
 ---
 
