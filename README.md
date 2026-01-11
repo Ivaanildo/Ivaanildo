@@ -83,7 +83,7 @@ Clonagem de voz avançada desenvolvida em Python/Flask com processamento em temp
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Ivanildo_BDS)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/Ivaanildo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/ivanildo-nogueira-459550211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildo-nogueira-459550211/)
 
 📍 **São Paulo, BR** | 🇧🇷 Desenvolvedor em constante evolução
 
