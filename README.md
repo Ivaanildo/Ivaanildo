@@ -1,17 +1,24 @@
 # 🚀 Bem-vindo ao Universo de Ivanildo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&width=435&lines=Ivanildo)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=20AC3CCF&width=600&lines=Welcome+to+my+profile;Full-Stack+Developer;AI+%26+LLM+Specialist;Building+Intelligent+Systems)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
-<h3>Full-Stack Developer • AI Specialist • Problem Solver</h3>
+### Full-Stack Developer • AI Specialist • Problem Solver
+
+</div>
+
+<div align="center">
+
+### 🎯 Quick Status
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Automation-blue?style=flat-square&logo=python)
-
 ![Location](https://img.shields.io/badge/Location-São%20Paulo%20🇧🇷-brightgreen?style=flat-square)
-
 ![Status](https://img.shields.io/badge/Status-Always%20Learning-FF6B6B?style=flat-square)
-
 ![Followers](https://img.shields.io/github/followers/Ivaanildo?style=social&label=Follow)
 
 </div>
@@ -24,21 +31,19 @@ Sou um **desenvolvedor full-stack apaixonado** por transformar dados em soluçõ
 
 Especializado em **Inteligência Artificial**, **Automação** e **Arquitetura escalável**.
 
-```python
-developer = {
-    "name": "Ivanildo Nogueira Lima",
-    "role": "Full-Stack Developer & AI Enthusiast",
-    "location": "São Paulo, Brasil 🇧🇷",
-    "passion": "Transformando dados em insights valiosos",
-    "currently_exploring": ["LLMs", "RAG Systems", "Machine Learning", "DevOps"]
+```javascript
+const developer = {
+  name: "Ivanildo Nogueira Lima",
+  role: "Full-Stack Developer & AI Enthusiast",
+  location: "São Paulo, Brasil 🇧🇷",
+  passion: "Transformando dados em insights valiosos",
+  currently_exploring: ["LLMs", "RAG Systems", "Machine Learning", "DevOps"]
 }
 ```
 
 ---
 
 ## 💻 Stack Tecnológico
-
-<div align="center">
 
 ### 🔥 Core Languages
 
@@ -75,8 +80,6 @@ developer = {
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
 ---
 
 ## 💡 O que Faço?
@@ -85,23 +88,46 @@ developer = {
 - 📊 Crio **soluções de análise de dados** com Python
 - 📋 Implemento **RAG systems** para processamento de documentos
 - 🚀 Automatizo **workflows** com N8N e outros orquestradores
-- 👨‍💻 Construo **aplicações full-stack** escaláveis
+- 👨‍💻 Construo **aplicações full-stack escaláveis**
 
 ---
 
 ## 🏆 Objetivos
 
-- Aprofundar conhecimento em **Arquitetura de Sistemas**
-- Dominar **IA Generativa** e aplicações avançadas
-- Construir **projetos impactantes** na comunidade
-- Crescer como **engenheiro de software**
+- 🎯 Aprofundar conhecimento em **Arquitetura de Sistemas**
+- 🤖 Dominar **IA Generativa** e aplicações avançadas
+- 🌟 Construir **projetos impactantes** na comunidade
+- 📈 Crescer como **engenheiro de software**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivaanildo&show_icons=true&theme=github_dark&count_private=true)](https://github.com/Ivaanildo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaanildo&layout=compact&theme=github_dark)](https://github.com/Ivaanildo)
+
+</div>
 
 ---
 
 ## 💼 Vamos Conversar?
 
-- 👀 LinkedIn: [@Ivanildo](https://linkedin.com)
-- 🚀 Twitter/X: [@Ivanildo_BDS](https://x.com/Ivanildo_BDS)
-- 📧 Email: ivanildo@example.com
+👀 **LinkedIn:** [@Ivanildo](https://linkedin.com/in/ivanildo-nogueira-lima)
 
-**Sempre aberto a novas oportunidades e colaborações!** 🙏
+🚀 **Twitter/X:** [@Ivanildo_BDS](https://x.com/Ivanildo_BDS)
+
+📧 **Email:** [ivanildo.nogueira.lima@gmail.com](mailto:ivanildo.nogueira.lima@gmail.com)
+
+Sempre aberto a novas oportunidades e colaborações! 🙏
+
+---
+
+<div align="center">
+
+![Wave](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=Ivaanildo&style=flat-square&color=blue)
+
+</div>
