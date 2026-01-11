@@ -1,5 +1,7 @@
 # 🚀 Bem-vindo ao Universo de Ivanildo
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&width=435&lines=Ivanildo)](https://git.io/typing-svg)
+
 <div align="center">
 
 <h3>Full-Stack Developer • AI Specialist • Problem Solver</h3>
