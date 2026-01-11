@@ -62,8 +62,24 @@ Clonagem de voz avançada desenvolvida em Python/Flask com processamento em temp
 ---
 
 ## 📈 Estatísticas
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivaanildo&theme=dark&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaanildo&theme=dark&layout=compact)
+
+<div align="center">
+
+**📊 Minhas Contribuições no GitHub**
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ivaanildo&theme=dark)
+
+</div>
+
+### 🏆 Destaques
+
+- **Total de Repositórios**: 15+ projetos
+- **Linguagens Principais**: TypeScript, Python, JavaScript
+- **Especialização**: AI/ML, Full-Stack Development, RAG Systems
+- **Foco Atual**: Advanced LLM Architectures & Agentic Frameworksusername=Ivaanildo&theme=dark&show_icons=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivaanildo&theme=dark&layout=compact)
 
