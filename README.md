@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo ao Universo de Ivanildo
+
 
 <div align="center">
 
