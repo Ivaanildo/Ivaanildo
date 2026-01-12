@@ -115,19 +115,23 @@ const developer = {
 
 ## 💼 Vamos Conversar?
 
-👀 **LinkedIn:** [@Ivanildo](https://linkedin.com/in/ivanildo-nogueira-lima)
+<div align="center">
 
-🚀 **Twitter/X:** [@Ivanildo_BDS](https://x.com/Ivanildo_BDS)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanildo-nogueira-lima)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://x.com/Ivanildo_BDS)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ivanildo.nogueira.lima@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=plastic&logo=github&logoColor=white)](https://github.com/Ivaanildo)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
 
-📧 **Email:** [ivanildo.nogueira.lima@gmail.com](mailto:ivanildo.nogueira.lima@gmail.com)
+</div>
 
-Sempre aberto a novas oportunidades e colaborações! 🙏
+### Sempre aberto a novas oportunidades e colaborações! 🙏
 
 ---
 
 <div align="center">
 
-![Wave](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
 ![Visitors](https://komarev.com/ghpvc/?username=Ivaanildo&style=flat-square&color=blue)
 
 </div>
