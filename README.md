@@ -103,6 +103,38 @@ const developer = {
 
 ## 📊 GitHub Stats
 
+![Analytics](https://img.shields.io/badge/Analytics-Advanced-brightblue?style=for-the-badge&logo=analytics&logoColor=white)
+![Real-time](https://img.shields.io/badge/Real--Time-Metrics-orange?style=for-the-badge&logo=clockify&logoColor=white)
+![Performance](https://img.shields.io/badge/Performance-Optimized-green?style=for-the-badge&logo=speedtest&logoColor=white)
+![Scalability](https://img.shields.io/badge/Scalability-99.9%25-blueviolet?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+## 🧠 Tecnologias de Ponta em Machine Learning
+
+Explorando as tecnologias mais avançadas e inteligentes para desenvolvimento de soluções em **Machine Learning** e **Inteligência Artificial**:
+
+### 🚀 Modelos & Frameworks Dinâmicos
+
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude--API-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🤖 Processamento de Dados & NLP
+
+![LangChain](https://img.shields.io/badge/LangChain-RAG%20Systems-00A3E0?style=for-the-badge&logo=chainlink&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-NLP%20Processing-0066CC?style=for-the-badge&logo=nltk&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-NLP%20Advanced-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-Language%20Models-1F77B4?style=for-the-badge&logo=transformer&logoColor=white)
+
+### 📈 Análise & Otimização Inteligente
+
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-1E90FF?style=for-the-badge&logo=xgboost&logoColor=white)
+![AutoML](https://img.shields.io/badge/AutoML-Automação-9370DB?style=for-the-badge&logo=automl&logoColor=white)
+![Ray](https://img.shields.io/badge/Ray-Distributed%20ML-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Optimization-005A9C?style=for-the-badge&logo=optuna&logoColor=white)
+
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivaanildo&show_icons=true&theme=github_dark&count_private=true)](https://github.com/Ivaanildo)
