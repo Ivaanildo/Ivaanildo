@@ -34,7 +34,7 @@ Especializado em **Inteligência Artificial**, **Automação** e **Arquitetura e
 ```javascript
 const developer = {
   name: "Ivanildo Nogueira Lima",
-  role: "Full-Stack Developer & AI Enthusiast",
+  role: "Full-Stack Developer",
   location: "São Paulo, Brasil 🇧🇷",
   passion: "Transformando dados em insights valiosos",
   currently_exploring: ["LLMs", "RAG Systems", "Machine Learning", "DevOps"]
